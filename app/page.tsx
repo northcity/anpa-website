@@ -282,7 +282,7 @@ export default function Home() {
           </a>
           <a
             className="download-card"
-            href="https://dl.northcity.top/anpa/releases/v1.0.2/Anpa-v1.0.2-release-vc10002.apk"
+            href="https://dl.northcity.top/anpa/releases/v1.1.0/Anpa-v1.1.0-release-vc10100.apk"
             target="_blank"
             rel="noreferrer"
           >
@@ -290,7 +290,7 @@ export default function Home() {
             <span className="download-card-copy">
               <small>Android</small>
               <strong>下载 Android 版</strong>
-              <span>V1.0.2 · 通用安装包</span>
+              <span>V1.1.0 · 通用安装包</span>
             </span>
             <ArrowUpRight />
           </a>
